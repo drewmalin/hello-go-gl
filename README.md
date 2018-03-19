@@ -18,7 +18,7 @@ $ make deps
 $ make build_osx
 ```
 
-## Run
+## Run (OSX)
 ```
 $ ./bin/osx/hello-go-gl
 ```
